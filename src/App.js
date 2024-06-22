@@ -15,7 +15,7 @@ const RandomNumber=()=>{
             <h1 className='headingEl1'>Random Number</h1>
             <p className='paragraphEl1'>Generate a number in the range of 0 to 100</p>
               <div>
-                <button onClick={solution} type='button' >Generate</button>
+                <button onClick={solution} type='button' >Generated Number</button>
               </div>
               <p>{text}</p>
         </div>
